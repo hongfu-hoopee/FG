@@ -489,20 +489,6 @@ TBKTV,http://96.44.160.246:9999/smt.php?id=vtn_tbktv
 BTV HD,http://96.44.160.246:9999/smt.php?id=vtn_btvhd
 CTV HD,http://96.44.160.246:9999/smt.php?id=vtn_ctvhd
 
-🧚‍♀儿童频道,#genre#
-Baby TV Eng,http://96.44.160.246:9999/smt.php?id=Ind_babytv
-CBeebies,http://96.44.160.246:9999/smt.php?id=Cbeebies
-Kids TV,http://96.44.160.246:9999/smt.php?id=KidsTV
-Momo TV,http://96.44.160.246:9999/smt.php?id=momo1_twn
-Animax,http://96.44.160.246:9999/smt.php?id=Animax
-Baby TV,http://96.44.160.246:9999/smt.php?id=babytv_twn
-MiaoMi,http://96.44.160.246:9999/smt.php?id=MiaoMi
-靖天卡通台,http://96.44.160.246:9999/smt.php?id=jingtiancartoon_twn
-东森幼幼 Yoyo TV,http://96.44.160.246:9999/smt.php?id=yoyo_twn
-Nickelodeon,http://96.44.160.246:9999/smt.php?id=Nickelodeon
-Nick Jr,http://96.44.160.246:9999/smt.php?id=Nickjr
-Cartoon Network,http://96.44.160.246:9999/smt.php?id=Cn
-
 🇹🇭泰国,#genre#
 Channel 3 Thailand,http://96.44.160.246:9999/smt.php?id=ch3_pat
 Channel 5 Thailand,http://96.44.160.246:9999/smt.php?id=ch5_pat
@@ -585,6 +571,20 @@ BBC World News,http://96.44.160.246:9999/smt.php?id=bbcworldnews_antik
 CNBC,http://96.44.160.246:9999/smt.php?id=Cnbc
 France 24,http://96.44.160.246:9999/smt.php?id=france24_twn
 Skynews,http://96.44.160.246:9999/smt.php?id=skynews_twn
+
+🧚‍♀儿童频道,#genre#
+Baby TV Eng,http://96.44.160.246:9999/smt.php?id=Ind_babytv
+CBeebies,http://96.44.160.246:9999/smt.php?id=Cbeebies
+Kids TV,http://96.44.160.246:9999/smt.php?id=KidsTV
+Momo TV,http://96.44.160.246:9999/smt.php?id=momo1_twn
+Animax,http://96.44.160.246:9999/smt.php?id=Animax
+Baby TV,http://96.44.160.246:9999/smt.php?id=babytv_twn
+MiaoMi,http://96.44.160.246:9999/smt.php?id=MiaoMi
+靖天卡通台,http://96.44.160.246:9999/smt.php?id=jingtiancartoon_twn
+东森幼幼 Yoyo TV,http://96.44.160.246:9999/smt.php?id=yoyo_twn
+Nickelodeon,http://96.44.160.246:9999/smt.php?id=Nickelodeon
+Nick Jr,http://96.44.160.246:9999/smt.php?id=Nickjr
+Cartoon Network,http://96.44.160.246:9999/smt.php?id=Cn
 
 📹纪录频道,#genre#
 CI,http://96.44.160.246:9999/smt.php?id=ci_twn
