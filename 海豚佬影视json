@@ -20,7 +20,8 @@
             "type": 3,
             "jar":"https://gitee.com/nm_nm/interface/raw/master/spider.jar;md5;06094f7f426755b6dd338459069a4e95",             "api": "csp_Qiyou"
         },
-        {   "key": "腾讯视频",
+        {
+            "key": "腾讯视频",
             "name": "🐬腾讯｜追剧",
             "type": 3,
             "api": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/js/drpy2.min.js",
@@ -314,8 +315,7 @@
         "header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
                 }
             }
-        },
-    
+        }, 
      {
 "name": "4k解析",
 "type": 1,
@@ -326,9 +326,7 @@
             "type": 1,
             "url": "http:\/\/121.40.174.45:777\/测试接口\/4K解析.php?url="
           
-        },
-      
-     
+        },   
         {   "name": "夏夜",
             "type": 1,
             "url": "http://8.155.50.80/xiayexk.php?url=",
@@ -349,12 +347,13 @@
         }
       }
     },
-    {  "name": "淡若青风",
+    {  
+            "name": "淡若青风",
             "type": 1,
             "url": "http:\/\/121.40.174.45:299\/api\/?key=C929E46077B4A0H&url=",
-        "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+             "ext": {
+            "header": {
+             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
         }
       }
      },
@@ -363,17 +362,15 @@
       "type": 0,
       "url": "https://jiexi.789jiexi.net:4433/?url=",
       "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+      "header": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
         }
       }
     },
-   
- 	
-	 {  "name": "大厂",
+	{ 
+            "name": "大厂",
             "type": 0,
-            "url": "https://t2.qlplayer.cyou/player/analysis.php?v="
-,
+            "url": "https://t2.qlplayer.cyou/player/analysis.php?v=",
          "ext": {
         "header": {
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
