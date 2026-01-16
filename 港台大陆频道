@@ -51,6 +51,7 @@ TVB星河720p,http://r.jdshipin.com/Voac4
 TVB无线千禧1080p,http://bxtv.3a.ink/api.php?id=qxjd
 TVB无线千禧1080p,http://rihou.cc:555/tv/[Bx]无线千禧
 TVB千禧经典1080p,https://o11.163189.xyz/stream/live/tvbc/
+TVB千禧经典540p,http://74.91.26.218:82/live/tvbjd.m3u8
 TVB功夫720p,http://rihou.cc:555/tv/[Pd]无线功夫
 TVB功夫720p,https://cdn6.101.qzz.io/163189/yzwx
 TVB功夫720p,P2p://starvod.xyz:19806/6043814031384523bc272f4f87aeb298.ts
@@ -239,11 +240,12 @@ AMC电影台,https://live.catvod.com/live.php?id=starmoviesgold_twn
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 美亚电影台HD,http://iptv.4666888.xyz/iptv2A.php?id=30
 美亚电影台HD,P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
-美亚电影,http://rihou.cc:555/tv/[PL]美亚电影
-美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-美亚电影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
-美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+美亚电影台(粤),http://74.91.26.218:82/live/mydy.m3u8
+美亚电影台(国),http://rihou.cc:555/tv/[PL]美亚电影
+美亚电影台(国),http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+美亚电影台(国),https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+美亚电影台(国),http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+美亚电影台(国),http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 东森电影HD,http://iptv.4666888.xyz/iptv2A.php?id=48
 华数电影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
 靖天電影台,http://iptv.4666888.xyz/iptv2A.php?id=56
