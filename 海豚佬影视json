@@ -58,7 +58,13 @@
         "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
-         {    
+        {
+			"api": "https://newtv.ggff.net/oule?token=P69Phb_y",
+			"key": "欧乐影院",
+			"name": "🐬欧乐影院｜追剧",
+			"type": 4
+		}, 
+        {    
             "key": "热播影视",
             "name": "🐬热播影视｜追剧",
             "type": 3,
