@@ -59,21 +59,11 @@
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
         {
-      "key": "柠檬",
-      "name": "🐬柠檬｜追剧",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "http://14.103.129.80:999/奇迹云2kmax/jar/柠檬.jar",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-      },
-        {
-           "key":"lanyingys",
-           "name":"🐬橘子4K｜追剧",
-            "type":4,
-            "api":"csp_Qiji",
-            "playerType":2,
-            "ext":"7lj763gg402i79425h3l90jgh14i9ijik6h8i75lj8i73l2l4k6g48lhgl2k4j3j2kik7l83gj54h687390196j0lkgg21l1i3552i7ij087ijj9258721g03lll"
+            "key": "绝对影视",
+            "name": "🐬绝对影视｜追剧",
+            "type": 3,
+            "jar":"https://gitee.com/nm_nm/interface/raw/master/spider.jar;md5;06094f7f426755b6dd338459069a4e95",             "api": "csp_FourK",
+            "ext": "https://www.4kvm.tv"
         },
        {
 			"key": "爱瓜TV",
