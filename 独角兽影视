@@ -611,12 +611,6 @@
             "ua": "okhttp/5.3.2",
             "url": "https://tv.anboxtv.online/tv"
         },
-         {
-            "name": "🦄ipv4电视",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u"
-        },
         {
             "name": "🦄jackTV(梯子)",
             "type": 0,
