@@ -611,12 +611,6 @@
             "ua": "okhttp/5.3.2",
             "url": "https://tv.anboxtv.online/tv"
         },
-        {
-            "name": "🦄电视ZB",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "http://1.94.31.214/live/live9/dgtv.txt"
-        },
          {
             "name": "🦄ipv4电视",
             "type": 0,
