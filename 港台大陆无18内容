@@ -150,6 +150,8 @@ CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 星空卫视576P,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 
 新聞频道,#genre#
+CCTV13新闻1080p,http://111.127.156.214:51234/rtp/239.29.1.123:5000
+CCTV13新闻1080p,http://39.152.103.17:8089/tsfile/live/1012_1.m3u8
 无线新闻台1080p,http://74.91.26.218:82/live/inews.m3u8
 无线新闻台1080p,http://119.237.111.230:55555/stream/channelid/1828814827?ticket=0dafc7000909c53b8513e03549ac79cab7dac54b&profile=pass
 无线新闻台1080p,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
